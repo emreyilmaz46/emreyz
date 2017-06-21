@@ -71,7 +71,7 @@
             </div>
         </nav>
 
-        <div class="panel-body">
+        <div class="container">
         @yield('content')
         </div>
     </div>

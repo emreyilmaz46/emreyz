@@ -16,7 +16,7 @@
                         </tr>
                         <tr>
                             <td><form class="form-group">
-                                    <a href="{{ url('/demoform') }}">
+                                    <a href="{{url('/demoform')}}">
                                     <button type="button" class="btn btn-warning">Temel Bilgilerinizi Giriniz</button>
                                     </a>
                             </td>
